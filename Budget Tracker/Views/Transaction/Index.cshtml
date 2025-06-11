@@ -1,0 +1,17 @@
+<h2>All Transactions</h2>
+<a href="/Transaction/Add">Add New</a>
+<table border="1">
+    <tr>
+        <th>Type</th>
+        <th>Amount</th>
+        <th>Date</th>
+    </tr>
+@foreach (var t in Model)
+{
+    <tr>
+        <td>@t.Type</td>
+        <td>@t.Amount</td>
+        <td>@t.Date.ToShortDateString()</td>
+    </tr>
+}
+</table>

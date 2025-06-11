@@ -1,0 +1,100 @@
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\appsettings.Development.json
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\appsettings.json
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\Budget Tracker.staticwebassets.runtime.json
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\Budget Tracker.staticwebassets.endpoints.json
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\Budget Tracker.exe
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\Budget Tracker.deps.json
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\Budget Tracker.runtimeconfig.json
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\Budget Tracker.dll
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\Budget Tracker.pdb
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.AssemblyInfoInputs.cache
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.AssemblyInfo.cs
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.csproj.CoreCompileInputs.cache
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.RazorAssemblyInfo.cache
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.RazorAssemblyInfo.cs
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\scopedcss\bundle\Budget Tracker.styles.css
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\scopedcss\projectbundle\Budget Tracker.bundle.scp.css
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\5a2djoi8ih-b9sayid5wm.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\642ytiovax-61n19gt1b8.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\ntanccexm1-xtxxf3hu2r.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\ifzludj2hn-bqjiyaj88i.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\yn0lysvr0c-c2jlpeoesf.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\o1ktcy7yg0-erw9l3u2r3.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\b3zw2jid8u-aexeepp0ev.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\aydb9hnj4d-d7shbmvgxk.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\lduhbwcz3m-ausgxo2sd3.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\swqltom7rl-k8d9w2qqmf.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\17hisjrq4o-cosvhxvwiu.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\ep64yn2sro-ub07r2b239.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\119u9twe0n-fvhpjtyr6v.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\had5w4a1jv-b7pk76d08c.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\5xnx55mxdd-fsbi9cje9m.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\r3mzhbuj88-rzd6atqjts.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\w621gotszi-ee0r1s7dh0.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\9zie02t3aa-dxx9fxp4il.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\0l3j34ngp4-jd9uben2k1.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\5xw7zg8qco-khv3u5hwcm.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\6kx048xdmt-r4e9w2rdcm.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\tbbl1wsngd-lcd1t2u6c8.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\op3nwniurb-c2oey78nd0.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\9dpeqkzojs-tdbxkamptv.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\m0be5pgpn4-j5mq2jizvt.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\w45fqcmaig-06098lyss8.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\zxi1kh0mc3-nvvlpmu67g.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\5yqyvv8lry-s35ty4nyc5.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\bon2v4lsuk-pj5nd1wqec.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\4c1eclcwti-46ein0sx1k.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\xowx7ch509-v0zj4ognzu.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\9k9ck7z60o-37tfw0ft22.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\tvcngbsdc1-hrwsygsryq.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\z16oe9umwq-pk9g2wxc8p.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\cf7nnj7yv2-ft3s53vfgj.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\sllkomf60b-6cfz1n2cew.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\hwhz15bcy8-6pdc2jztkx.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\ov0gjbzsyr-493y06b0oq.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\75379yv55h-iovd86k7lj.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\tdzeouiz4t-vr1egmr9el.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\0an11evkbv-kbrnm935zg.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\tm8qaa5m2u-jj8uyg4cgr.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\11pzteuh8h-y7v9cxd14o.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\8v4vlqa0wb-notf2xhcfb.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\35zsf2v6ei-h1s4sie4z3.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\vbba0vfk4v-63fj8s7r0e.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\ol038ot85y-0j3bgjxly4.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\9sm033qnnj-47otxtyo56.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\nxurzaxcsw-4v8eqarkd7.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\86pzp0scaa-356vix0kms.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\p8bgqcnof3-83jwlth58m.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\z42yiv14k5-mrlpezrjn3.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\x7u1nd9f33-lzl9nlhx6b.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\9c8230bgz0-ag7o75518u.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\ink03qklej-x0q3zqp4vz.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\4fzcmfq6a5-0i3buxo5is.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\brz3wfsnj2-o1o13a6vjx.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\ipz54bt8qg-ttgo8qnofa.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\ak3lz9h5f5-2z0ns9nrw6.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\fiaxxwpkrc-muycvpuwrr.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\bkz4nfswhd-87fc7y1x7t.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\vp1gzv7l4t-mlv21k5csn.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\x1bdrvvk2e-1nk1j7n3fh.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\compressed\7yoy2c3cwp-1nk1j7n3fh.gz
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\staticwebassets.build.json
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\staticwebassets.development.json
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.dll
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\refint\Budget Tracker.dll
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.pdb
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.genruntimeconfig.cache
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\ref\Budget Tracker.dll
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\DnsClient.dll
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\MongoDB.Bson.dll
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\MongoDB.Driver.dll
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\SharpCompress.dll
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\Snappier.dll
+F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\ZstdSharp.dll
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.csproj.AssemblyReference.cache
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget T.32D8F162.Up2Date
