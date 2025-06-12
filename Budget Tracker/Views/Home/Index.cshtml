@@ -1,8 +1,40 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+<style>
+    .card:hover {
+        background-color: #0f8fff; /* Light blue background on hover */
+        transition: background-color 0.3s ease;
+    }
+</style>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="text-center mt-5">
+    <h1 class="display-4">Welcome to Budget Tracker</h1>
+    <p class="lead">Track your expenses, plan your budget, and achieve your financial goals.</p>
+    <a asp-controller="Transaction" class="btn btn-success btn-lg mt-3">Get Started</a>
+</div>
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Features</h2>
+    <div class="row text-center">
+    <div class="col-md-4">
+        <div class="card shadow-sm p-4 mb-4">
+            <h4 class="fw-bold">Track Expenses</h4>
+            <p>Monitor and categorize your spending easily.</p>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card shadow-sm p-4 mb-4">
+            <h4 class="fw-bold">Set Budgets</h4>
+            <p>Create monthly or weekly budgets and stay on track.</p>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card shadow-sm p-4 mb-4">
+            <h4 class="fw-bold">Visual Reports</h4>
+            <p>Get charts and insights about your financial habits.</p>
+        </div>
+    </div>
+</div>
+
 </div>

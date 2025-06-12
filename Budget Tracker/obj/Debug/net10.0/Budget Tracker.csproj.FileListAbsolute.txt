@@ -98,3 +98,4 @@ F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\Snappier.dll
 F:\Projects\dotNet\Budget Tracker\bin\Debug\net10.0\ZstdSharp.dll
 F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.csproj.AssemblyReference.cache
 F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget T.32D8F162.Up2Date
+F:\Projects\dotNet\Budget Tracker\obj\Debug\net10.0\Budget Tracker.sourcelink.json
